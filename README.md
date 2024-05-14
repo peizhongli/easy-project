@@ -1,4 +1,4 @@
-# @ninja/easy-project-cli
+# @peizhongli/easy-project-cli
 
 This tool is used to help generate directories for project initialization as well as component directories. ( react-ts | react | vue-ts | vue )
 

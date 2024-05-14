@@ -1,0 +1,11 @@
+import styles from "./index.module.less";
+
+const ${componentName} = (props) => {
+  return (
+    <div>
+      
+    </div>
+  );
+};
+
+export default ${componentName};

@@ -1,0 +1,20 @@
+{
+  "name": "@ninja/easy-project-cli",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "mkproj": "bin/mkproj.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "commander": "^12.0.0",
+    "jsonc-parser": "^3.2.1"
+  }
+}

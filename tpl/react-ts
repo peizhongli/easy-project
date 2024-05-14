@@ -1,0 +1,15 @@
+import styles from "./index.module.less";
+
+interface ${componentName}Props {
+
+}
+
+const ${componentName} = (props: ${componentName}Props) => {
+  return (
+    <div>
+      
+    </div>
+  );
+};
+
+export default ${componentName};

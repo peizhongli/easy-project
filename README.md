@@ -1,6 +1,8 @@
 # @ninjaya/easy-project-cli
 
-This tool is used to help generate directories for project initialization as well as component directories. ( react-ts | react | vue-ts | vue )
+other languages: English | [简体中文](./README_CN.md)
+
+This tool is used to help generate directories for project initialization as well as component directories. ( react-ts | react | vue-ts | vue ) 
 
 ## Installation
 

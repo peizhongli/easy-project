@@ -18,7 +18,7 @@ program
   .argument(
     "[directory]",
     `define directory names separated by "," (default: all directories)`,
-    "assets | components | pages | hooks | service | apis | utils"
+    "assets,components,pages,hooks,service,apis,utils"
   )
   .description(
     "generate directories (assets | components | pages | hooks | service | apis | utils)"
@@ -55,7 +55,7 @@ program
   .argument(
     "[directory]",
     `set directory alias separated by "," (default: all directories)`,
-    "assets | components | pages | hooks | service | apis | utils"
+    "assets,components,pages,hooks,service,apis,utils"
   )
   .option(
     "-t, --template <type>",

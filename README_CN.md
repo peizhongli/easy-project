@@ -1,13 +1,13 @@
 # @ninjaya/easy-project-cli
 
-其他语言：[English](./README.md) | 简体中文
+其他语言：[English](https://github.com/peizhongli/easy-project-cli/blob/main/README.md) | 简体中文
 
 本工具用于生成项目初始化目录以及组件目录（支持的模板有react-ts | react| vue-ts | vue）
 
 ## 安装
 
 ```bash
-$ npm install create-file-cli -g
+$ npm install @ninjaya/easy-project-cli -g
 ```
 
 ## 命令

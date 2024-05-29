@@ -1,13 +1,13 @@
 # @ninjaya/easy-project-cli
 
-other languages: English | [简体中文](./README_CN.md)
+other languages: English | [简体中文](https://github.com/peizhongli/easy-project-cli/blob/main/README_CN.md)
 
 This tool is used to help generate directories for project initialization as well as component directories. ( react-ts | react | vue-ts | vue ) 
 
 ## Installation
 
 ```bash
-$ npm install create-file-cli -g
+$ npm install @ninjaya/easy-project-cli -g
 ```
 
 ## Commands

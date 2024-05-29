@@ -18,13 +18,13 @@ $ npm install @ninjaya/easy-project-cli -g
 
 ```bash
 Arguments:
-  # 选择要生成的目录名，用“,”分割 (默认目录为 assets | components | pages | hooks | service | apis | utils)
+  # 选择要生成的目录名，用“,”分割 (默认目录为 assets | components | pages | hooks | service | apis | utils | router)
   [directory]
 ```
 #### 使用
 
 ```bash
-# 生成默认目录 (assets | components | pages | hooks | service | apis | utils)
+# 生成默认目录 (assets | components | pages | hooks | service | apis | utils | router)
 $ mkproj init
 # 生成指定目录
 $ mkproj init assets,components,pages

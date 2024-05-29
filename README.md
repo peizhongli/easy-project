@@ -24,7 +24,7 @@ Arguments:
 #### Usage
 
 ```bash
-# default generate all directories (assets | components | pages | hooks | service | apis | utils)
+# default generate all directories (assets | components | pages | hooks | service | apis | utils | router)
 $ mkproj init
 # generate the specified directories
 $ mkproj init assets,components,pages
@@ -60,7 +60,7 @@ $ mkproj create topBanner -t vue-ts
 
 ### mkproj config [options] [directory]
 
-incremental rewrite tsconfig.json and write vite.config about "alias" and "baseUrl" (assets | components | pages | hooks | service | apis | utils)
+incremental rewrite tsconfig.json and write vite.config about "alias" and "baseUrl" (assets | components | pages | hooks | service | apis | utils | router)
 
 ```bash
 $ mkproj config [options] [directory]

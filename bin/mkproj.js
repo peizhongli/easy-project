@@ -18,10 +18,10 @@ program
   .argument(
     "[directory]",
     `define directory names separated by "," (default: all directories)`,
-    "assets,components,pages,hooks,service,apis,utils"
+    "assets,components,pages,hooks,service,apis,utils,router"
   )
   .description(
-    "generate directories (assets | components | pages | hooks | service | apis | utils)"
+    "generate directories (assets | components | pages | hooks | service | apis | utils | router | router)"
   )
   .action(async (directories) => {
     try {
@@ -55,7 +55,7 @@ program
   .argument(
     "[directory]",
     `set directory alias separated by "," (default: all directories)`,
-    "assets,components,pages,hooks,service,apis,utils"
+    "assets,components,pages,hooks,service,apis,utils,router"
   )
   .option(
     "-t, --template <type>",
